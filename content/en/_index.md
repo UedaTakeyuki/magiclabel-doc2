@@ -1,15 +1,16 @@
 ---
-title: Atelier UEDA
+title: Magic Label™
 ---
 
-{{< blocks/cover title="Welcome to Atelier UEDA!" image_anchor="center" height="full" >}}
+{{< blocks/cover image_anchor="center" height="full" >}}
+<h1 class="m-5 display-1" style="font-family: 'Parisienne'">Magic Label™</h1>
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
   Download <i class="fab fa-github ms-2 "></i>
 </a>
-<p class="lead mt-5">Unique software products &mdash; for you!</p>
+<p class="lead mt-5">The world-changing pre-printed QR code sticker! You can set a URL yourself on it with your mobile! It's like magic, so named "Magic Label™".</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
