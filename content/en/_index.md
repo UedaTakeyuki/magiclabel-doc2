@@ -7,7 +7,7 @@ title: Magic Label™
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://ml.uedasoft.com/demo">
   Online Trial<i class="fa-solid fa-chalkboard-user ms-2 "></i>
 </a>
 <p class="lead mt-5">The innovative<b>pre-printed QR code sticker you can set its URL as you like</b> with your mobile! It's like magic, so it's named <i>Magic Label™</i>.</p>
