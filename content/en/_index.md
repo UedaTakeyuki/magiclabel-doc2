@@ -10,7 +10,7 @@ title: Magic Label™
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
   Download <i class="fab fa-github ms-2 "></i>
 </a>
-<p class="lead mt-5">The world-changing pre-printed QR code sticker! You can set a URL yourself on it with your mobile! It's like magic, so named "Magic Label™".</p>
+<p class="lead mt-5">The <b>pre-printed QR code sticker</b> with the <i>newly invented</i> feature! <b>You can set its URL as you like</b> with your mobile! It's like magic, so named <i>Magic Label™</i>.</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
