@@ -8,21 +8,34 @@ title: Magic Label™
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
-  Download <i class="fab fa-github ms-2 "></i>
+  Online Trial<i class="fa-solid fa-chalkboard-user ms-2 "></i>
 </a>
-<p class="lead mt-5">The <b>pre-printed QR code sticker</b> with the <i>newly invented</i> feature! <b>You can set its URL as you like</b> with your mobile! It's like magic, so named <i>Magic Label™</i>.</p>
+<p class="lead mt-5">The innovative<b>pre-printed QR code sticker you can set its URL as you like</b> with your mobile! It's like magic, so it's named <i>Magic Label™</i>.</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
 
 {{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
+"I know well a QR code is preferred over a URL string, but how can I write down it on handwritten or printed material without an expensive and cumbersome label printer?"
 
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+<b>Magic Label™</b>, the innovative pre-printed QR code sticker, is the solution! Just carry a few affordable, thin and small Magic Label™s with you and you can stick a QR code of any URL you like anywhere!
 {{% /blocks/lead %}}
+
+{{% blocks/section %}}
+## Have you ever wanted to write down a QR code?
+When you are writing down the URL as a reference in a handwritten note, have you ever wanted to write down the QR code for that URL instead?
+
+When you are reading a printed report and writing a reference URL along with your comment, have you wished to write the QR code of that URL?
+
+Typing in a URL to read it is very cumbersome, so the person who should read the URL may feel tedious and hesitate to read it, but <b>if it were a QR code?</b> no need to worry about it.
+
+## Label printer can do, but…
+It's almost impossible to handwrite a QR code, so if you want to add a QR code to paper or something else, you'll need to create it separately, print it, and paste it.
+
+The label printers are products to reduce the troublesomeness of this work. Enter a URL as you like, it will create a QR code and print it as a sticker. However, label printers are expensive, cumbersome to carry, and tend to break down. It is hard to feel like buying it and bringing it around all the time just for the opportunity to print a QR code you never know when it will come.
+
+# Magic Label™ is the right solution!
+{{% /blocks/section %}}
 
 
 {{% blocks/section color="dark" type="row" %}}
@@ -44,7 +57,6 @@ For announcement of latest features etc.
 
 
 {{% /blocks/section %}}
-
 
 {{% blocks/section %}}
 This is the second section
