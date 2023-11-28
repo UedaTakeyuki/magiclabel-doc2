@@ -1,5 +1,5 @@
 ---
-title: About Goldydocs
+title: about Atelier UEDA
 linkTitle: About
 menu: {main: {weight: 10}}
 ---
