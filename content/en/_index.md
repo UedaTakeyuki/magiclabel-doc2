@@ -4,8 +4,8 @@ title: Magic Label™
 
 {{< blocks/cover image_anchor="center" height="full" >}}
 <h1 class="m-5 display-1" style="font-family: 'Parisienne'">Magic Label™</h1>
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://payhip.com/b/bj4t2">
+  Store <i class="fa-solid fa-store ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://ml.uedasoft.com/demo">
   Online Trial<i class="fa-solid fa-chalkboard-user ms-2 "></i>
@@ -34,6 +34,13 @@ It's almost impossible to handwrite a QR code, so if you want to add a QR code t
 The label printers are products to reduce the troublesomeness of this work. Enter a URL as you like, it will create a QR code and print it as a sticker. However, label printers are expensive, cumbersome to carry, and tend to break down. It is hard to feel like buying it and bringing it around all the time just for the opportunity to print a QR code you never know when it will come.
 
 # Magic Label™ is the right solution!
+
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+</a>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+</a>
 {{% /blocks/section %}}
 
 
@@ -42,8 +49,11 @@ The label printers are products to reduce the troublesomeness of this work. Ente
 The Goldydocs UI now shows chair size metrics by default.
 
 Please follow this space for updates!
-{{% /blocks/feature %}}
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+</a>
 
+{{% /blocks/feature %}}
 
 {{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
 We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributions workflow on **GitHub**. New users are always welcome!
