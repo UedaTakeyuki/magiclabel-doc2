@@ -10,15 +10,14 @@ title: Magic Label™
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://ml.uedasoft.com/demo">
   Online Trial<i class="fa-solid fa-chalkboard-user ms-2 "></i>
 </a>
-<p class="lead mt-5">The innovative<b>pre-printed QR code sticker you can set its URL as you like</b> with your mobile! It's like magic, so it's named <i>Magic Label™</i>.</p>
+<p class="lead mt-5">The innovative <b>pre-printed QR code sticker which you can set a URL for reading as you like</b> with your mobile! It's like magic, so it's named <i>Magic Label™</i>.</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
-
 {{% blocks/lead color="primary" %}}
-"I know well a QR code is preferred over a URL string, but how can I write down it on handwritten or printed material without an expensive and cumbersome label printer?"
+Have you ever wanted to add a QR code on printed materials, posters, handwritten notes, etc.? Maybe you have. Then you may have given up because you're too lazy to do the hassle of creating a QR code on your computer, printing it out, cutting it to the appropriate size, and pasting it.
 
-<b>Magic Label™</b>, the innovative pre-printed QR code sticker, is the solution! Just carry a few affordable, thin and small Magic Label™s with you and you can stick a QR code of any URL you like anywhere!
+<b>Magic Label™</b>, the innovative pre-printed QR code sticker, is the solution for you! Just read it with your mobile, and then you see a website that sets a website to read. After you set up a website on it, anyone read the website you set as same as a regular QR code. All hassles are gone!
 {{% /blocks/lead %}}
 
 {{% blocks/section %}}
