@@ -15,43 +15,52 @@ title: Magic Label™
 {{< /blocks/cover >}}
 
 {{% blocks/lead color="primary" %}}
+## Have you ever wanted to add a QR code on printed materials?
+
 Have you ever wanted to add a QR code on printed materials, posters, handwritten notes, etc.? Maybe you have. Then you may have given up because you're too lazy to do the hassle of creating a QR code on your computer, printing it out, cutting it to the appropriate size, and pasting it.
 
 <b>Magic Label™</b>, the innovative pre-printed QR code sticker, is the solution for you! Just read it with your mobile, and then you see a website that sets a website to read. After you set up a website on it, anyone read the website you set as same as a regular QR code. All hassles are gone!
+{{< blocks/link-down color="info" >}}
 {{% /blocks/lead %}}
 
-{{% blocks/section %}}
-## Have you ever wanted to write down a QR code?
-When you are writing down the URL as a reference in a handwritten note, have you ever wanted to write down the QR code for that URL instead?
+{{% blocks/section type="row" %}}
+## What is the Magic Label™ like?
+{{% blocks/feature icon="fa-qrcode" title="looks like QR code sticker ordinaly" %}}
+It looks like a normal 2cm x 2cm QR code sticker. You can peel off its release liner and stick its adhesive face of it anywhere.
 
-When you are reading a printed report and writing a reference URL along with your comment, have you wished to write the QR code of that URL?
+<img src="docs/IMG_1520.JPG" width="50%"/>
 
-Typing in a URL to read it is very cumbersome, so the person who should read the URL may feel tedious and hesitate to read it, but <b>if it were a QR code?</b> no need to worry about it.
+What happens when you read the QR code printed on the surface?
 
-## Label printer can do, but…
-It's almost impossible to handwrite a QR code, so if you want to add a QR code to paper or something else, you'll need to create it separately, print it, and paste it.
+{{% /blocks/feature %}}
+{{% blocks/feature icon="" title="a website to register a website URL" %}}
+When you read the QR code printed on the surface, you see a website that requires an input of a website URL.
 
-The label printers are products to reduce the troublesomeness of this work. Enter a URL as you like, it will create a QR code and print it as a sticker. However, label printers are expensive, cumbersome to carry, and tend to break down. It is hard to feel like buying it and bringing it around all the time just for the opportunity to print a QR code you never know when it will come.
+<img src="docs/ssSetURL.gif" width="50%"/>
 
-# Magic Label™ is the right solution!
+What happens when you input a URL, click the REGISTER button, and read it again?
 
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
+{{% /blocks/feature %}}
+{{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
+  The Goldydocs UI now shows chair size metrics by default.
+
+  Please follow this space for updates!
+{{% /blocks/feature %}}
+
 {{% /blocks/section %}}
 
 
 {{% blocks/section color="dark" type="row" %}}
 {{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
+<img src="docs/ssReadQR.gif"/>
+
 The Goldydocs UI now shows chair size metrics by default.
 
 Please follow this space for updates!
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
+<img src="docs/ssReadQR.gif"/>
 
 {{% /blocks/feature %}}
 
@@ -75,7 +84,7 @@ This is the second section
 
 {{% blocks/section type="row" %}}
 
-{{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
+{{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**"   url="./docs" %}}
 Get the Goldydocs app!
 {{% /blocks/feature %}}
 
