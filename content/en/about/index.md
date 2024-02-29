@@ -28,6 +28,23 @@ Unique products that address unique problems.
 4. most indispensable of all, to produce thoroughly good <b>software products</b>.
 
 These are homages to the [doctrines of the Pre-Raphaelites](https://en.wikipedia.org/wiki/Pre-Raphaelite_Brotherhood#Early_doctrines). When I identified with it, I realized that they also applied to making software products, and when I changed the words appropriately, I was convinced that these were exactly the beliefs I should espouse.
+
+
+{{% blocks/section type="row" %}}
+
+{{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
+    url="https://github.com/google/docsy-example" %}}
+We do a [Pull Request](https://github.com/UedaTakeyuki/magiclabel-doc2/pulls)
+contributions workflow on **GitHub**. New users are always welcome!
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!"
+    url="https://twitter.com/AtelierUeda" %}}
+For announcement of latest features etc.
+{{% /blocks/feature %}}
+
+{{% /blocks/section %}}
+
 {{% blocks/section %}}
 
 # for more details…

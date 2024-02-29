@@ -58,28 +58,22 @@ Of course, the same site will open no matter who reads it on any device.
 {{% /blocks/section %}}
 
 {{% blocks/lead %}}
-## Where can I get the Magic Label™?
+## How can I get the Magic Label™?
 {{< blocks/link-down >}}
 {{% /blocks/lead %}}
 
 {{% blocks/section color="dark" type="row" %}}
 {{% blocks/feature icon="fa-store" title="Atelier UEDA store on the Payhip" url="https://payhip.com/b/bj4t2"%}}
-{{% /blocks/feature %}}
   You can buy it at the [Atelier UEDA store on the Payhip](https://payhip.com/b/bj4t2).
-{{% /blocks/section %}}
-
-
-{{% blocks/section type="row" %}}
-
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
-    url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/UedaTakeyuki/magiclabel-doc2/pulls)
-contributions workflow on **GitHub**. New users are always welcome!
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!"
-    url="https://twitter.com/AtelierUeda" %}}
-For announcement of latest features etc.
+{{% blocks/feature icon="fa-store" title="Purchase from stripe" url="https://buy.stripe.com/3cs8yB0Y89pIdsA147"%}}
+  You can also purchase from [stripe](https://buy.stripe.com/3cs8yB0Y89pIdsA147).
 {{% /blocks/feature %}}
 
+{{% blocks/feature icon="fa-store" title="Shipping" %}}
+Shipping will be made by post from Japan. The number of days required for arrival varies depending on the country. Some countries do not have air links to Japan, so shipping is by sea and may take several weeks.
+
+We charge a <b>$1 shipping fee</b> for <b>each order</b>. Free shipping on orders of 10 or more for shipping to select countries.
+{{% /blocks/feature %}}
 {{% /blocks/section %}}
