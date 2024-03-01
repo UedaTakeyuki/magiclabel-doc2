@@ -37,7 +37,6 @@ I believe that the value of a software product arises when people use it, and th
 {.text-center}
 {{% /blocks/lead %}}
 
-
 {{% blocks/section %}}
 1. to have genuine <b>ideas</b> to express;
 2. to study the <b>coding</b> attentively, so as to know how to express them;
