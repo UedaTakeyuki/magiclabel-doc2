@@ -31,6 +31,7 @@ If you are lucky, there may be a software product here that solves a small probl
 I believe that the value of a software product arises when people use it, and that software that is not used by anyone has zero value, no matter how great, large, or interesting it is. So, if you like them and use them, there is no greater joy than that.
 {{% /blocks/section %}}
 
+
 {{% blocks/lead %}}
 # Our Creed for Making Good Software Products.
 {{< blocks/link-down color="dark" >}}
