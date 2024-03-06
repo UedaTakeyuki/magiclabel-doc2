@@ -4,7 +4,7 @@ linkTitle: About
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover timage_anchor="bottom" height="auto" %}}
+{{% blocks/cover image_anchor="bottom" height="auto" %}}
 about
 <h1 class="display-1"><p style="font-family: 'Oleo Script'">Atelier UEDA</p></h1>
 
@@ -19,7 +19,7 @@ Unique products that address unique problems.
 {{% /blocks/lead %}}
 
 {{% blocks/section %}}
-<b>Atelier Ueda</b> is an atelier dedicated to:
+<b>Atelier Ueda</b> is an <i>Atelier de Software</i> dedicated to:
 
 - figuring out a functional idea to solve a daily problem that is overlooked unexpectedly even though they are faced by someone somewhere in the world.
 - implementing the idea as a software product to solve the problem practically, not theoretically.
