@@ -15,7 +15,7 @@ title: Magic Label™
 {{< /blocks/cover >}}
 
 {{% blocks/lead %}}
-## Have you ever wanted to add a QR code on printed materials?
+## Have you ever wanted to add a QR code to already printed materials?
 {{< blocks/link-down color="info" >}}
 
 {{% /blocks/lead %}}
