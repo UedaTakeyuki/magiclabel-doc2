@@ -1,11 +1,11 @@
 ---
 title: Overview
-description: Here's where your user finds out if your project is for them.
+description: You can easily add a QR code to your non-digital documents, materials, or substances with the Magic Label™.
 weight: 1
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+We'll be sure to introduce an overview of Magic Label™.
 {{% /pageinfo %}}
 
 
