@@ -1,6 +1,6 @@
 ---
 title: Overview
-description: You can easily add a QR code to your non-digital documents, materials, or substances with the Magic Label™.
+description: We'll be sure to introduce an overview of the Magic Label™.
 weight: 1
 ---
 
