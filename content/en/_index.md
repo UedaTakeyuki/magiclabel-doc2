@@ -37,18 +37,18 @@ It looks like a normal 2cm x 2cm QR code sticker. You can peel off its release l
 
 <img src="docs/IMG_1520.JPG" width="50%"/>
 
-What happens when you read the QR code printed on the surface?
+What happens when you read the QR code printed on its surface?
 
 {{% /blocks/feature %}}
-{{% blocks/feature icon="" title="a website to register a website URL" %}}
-When you read the QR code printed on the surface, you see a website that requires an input of a website URL.
+{{% blocks/feature icon="" title="You can register a URL" %}}
+When you read the QR code printed on its surface, a web page asking you to enter the URL will open.
 
 <img src="docs/ssSetURL.gif" width="50%"/>
 
 What happens when you input a URL, click the REGISTER button, and read it again?
 
 {{% /blocks/feature %}}
-{{% blocks/feature icon="fa-lightbulb" title="reading it, opening the website registered" %}}
+{{% blocks/feature icon="fa-lightbulb" title="Works as an ordinary QR Code that opens a registered URL" %}}
 After registering, when you read it, after notification to redirect to the registered URL, it opens the website registered as like as a regular QR code.
 
 <img src="docs/ssReadQR.gif" width="50%"/>
