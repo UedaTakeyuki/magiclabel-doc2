@@ -10,7 +10,7 @@ title: Magic Label™
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://ml.uedasoft.com/demo">
   Online Trial<i class="fa-solid fa-chalkboard-user ms-2 "></i>
 </a>
-<p class="lead mt-5">The innovative <b>pre-printed QR code sticker which you can set a URL for reading as you like</b> with your mobile! It's like magic, so it's named <i>Magic Label™</i>.</p>
+<p class="lead mt-5">The innovative <b>QR code sticker you can set a Web address as you like</b>! It's like magic, so it's named <i>Magic Label™</i>.</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
