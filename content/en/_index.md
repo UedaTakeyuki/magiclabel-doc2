@@ -15,13 +15,13 @@ title: Magic Label™
 {{< /blocks/cover >}}
 
 {{% blocks/lead %}}
-## Have you ever wanted to add a QR code to already printed materials?
+## Have you ever wanted to add a QR code to Non-digital materials?
 {{< blocks/link-down color="info" >}}
 
 {{% /blocks/lead %}}
 
 {{% blocks/section type="row" %}}
-Have you ever wanted to add a QR code on printed materials, posters, handwritten notes, etc.? Maybe you have. Then you may have given up because you're too lazy to do the hassle of creating a QR code on your computer, printing it out, cutting it to the appropriate size, and pasting it.
+Have you ever wanted to add a **QR code** to Non-digital materials like **printed materials**, **printed posters**, **handwritten notes**, etc.? I guess maybe you have, and I can easy imagine that you may have given up it because you're too lazy to do the hassle of **making a QR code** on your computer, **printing** it out, **cutting** it to the appropriate size, and pasting it on the materials.
 
 <b>Magic Label™</b>, the innovative pre-printed QR code sticker, is the solution for you! Just read it with your mobile, and then you see a website that sets a website to read. After you set up a website on it, anyone read the website you set as same as a regular QR code. With <i>Magic Label™</i> all your hassles are gone!
 {{% /blocks/section %}}
