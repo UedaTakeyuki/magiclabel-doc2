@@ -21,13 +21,21 @@ title: Magic Label™
 {{% /blocks/lead %}}
 
 {{% blocks/section type="row" %}}
-Have you ever wanted to add a **QR code** to Non-digital materials like **printed materials**, **printed posters**, **handwritten notes**, etc.? I guess maybe you have, and I can easy imagine that you may have given up it because you're too lazy to do the hassle of **making a QR code** on your computer, **printing** it out, **cutting** it to the appropriate size, and pasting it on the materials.
+Have you ever wanted to add a **QR code** to Non-digital materials like **printed materials**, **printed posters**, **handwritten notes**, etc.? I guess maybe you have, and I can easily imagine that you may have given up because you're too lazy to do the hassle of a series of tasks:
+
+-- **Start** your PC.  
+-- **Make** a QR code on your computer.  
+-- **Print** it out by a printer connected to your PC.  
+-- **Cut** it to the appropriate size with scissors.  
+-- **Past** it on the materials with glue.  
+
+**So tedious**.
 
 <b>Magic Label™</b>, the innovative pre-printed QR code sticker, is the solution for you! Just read it with your mobile, and then you see a website that sets a website to read. After you set up a website on it, anyone read the website you set as same as a regular QR code. With <i>Magic Label™</i> all your hassles are gone!
 {{% /blocks/section %}}
 
 {{% blocks/lead %}}
-# What is the Magic Label™ like?
+# How does the Magic Label™ solve your trouble as easy as 1, 2, 3?
 {{< blocks/link-down color="dark" >}}
 {{% /blocks/lead %}}
 
@@ -40,20 +48,20 @@ It looks like a normal 2cm x 2cm QR code sticker. You can peel off its release l
 What happens when you read the QR code printed on its surface?
 
 {{% /blocks/feature %}}
-{{% blocks/feature icon="" title="You can register a URL" %}}
-When you read the QR code printed on its surface, a web page asking you to enter the URL will open.
+{{% blocks/feature icon="fa-gear" title="You can register a webpage" %}}
+When you read the QR code printed on its surface, you are required to input a webpage address (technically called **URL**).
 
 <img src="docs/ssSetURL.gif" width="50%"/>
 
 What happens when you input a URL, click the REGISTER button, and read it again?
 
 {{% /blocks/feature %}}
-{{% blocks/feature icon="fa-lightbulb" title="Works as an ordinary QR Code that opens a registered URL" %}}
-After registering, when you read it, after notification to redirect to the registered URL, it opens the website registered as like as a regular QR code.
+{{% blocks/feature icon="fa-images" title="read it, opens the website registered" %}} 
+After registering a URL, when someone reads it, a notification to redirect to the registered URL appears and **opens the website registered** by you earlier, as like as an **ordinary QR code**.
 
 <img src="docs/ssReadQR.gif" width="50%"/>
 
-Of course, the same site will open no matter who reads it on any device.
+No matter who reads it on any device, the registered webpage is opens.
 {{% /blocks/feature %}}
 {{% /blocks/section %}}
 
