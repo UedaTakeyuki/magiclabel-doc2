@@ -224,6 +224,9 @@ enable = false
 [params.drawio]
 enable = true
 
+[params.plantuml]
+enable = true
+
 # hugo module configuration
 
 [module]
