@@ -10,7 +10,7 @@ This is a placeholder page that shows you how to use this template site.
 {{% /pageinfo %}}
 
 ## How does the Magic Label™ works.
-Regarding regular QR codes, first, there is a URL for associating with it, and the QR code is created based on that. first, there is a URL for associating with it, and the QR code is created based on that. Conversely, regarding the  Magic Label™, first, there is a printed QR code, and you can associate any URL you like with that. Below, I will explain how this is possible.
+Regarding regular QR codes, first, there is a URL for associating with it, and the QR code is created based on that. first, there is a URL for associating with it, and the QR code is created based on that. Conversely, regarding the  Magic Label™, first, there is a printed QR code, and you can associate any URL you like with that. Below, I will explain how this is possible by contrasting it with a general QR code.
 
 ### How ordinary QR code works.
 In principle, a QR code is a geometric representation of **a string of characters**. There is a one-to-one correspondence between characters string and QR code graphic patterns.  
@@ -26,9 +26,11 @@ sequenceDiagram
 Since the relation between a QR code and a string is one-to-one, it's impossible to change the URL string freely after printing.
 
 ### Why does the Magic Label™ set a URL string after printing?
+The Magic Label™ also uses the same mechanism to associate with the URL of the ready-made **web application**, which has a DB whose primary key is the ``label ID``.
+
 
 ```plantuml
-participant "Application" as App
+participant "your mobile" as App
 participant "Web Server" as Web
 database DB as DB
 
