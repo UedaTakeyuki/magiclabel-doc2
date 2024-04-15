@@ -26,23 +26,29 @@ sequenceDiagram
 Since the relation between a QR code and a string is one-to-one, it's impossible to change the URL string freely after printing.
 
 ### Why does the Magic Label™ set a URL string after printing?
-The Magic Label™ also uses the same mechanism to associate with the URL of the ready-made **web application**, which has a DB whose primary key is the ``label ID``.
+The Magic Label™ also uses the above-mentioned mechanism to associate its pre-printed QR code with the URL to the **ready-made** web application that has a DB whose primary key is the ``label ID``.  
 
+The URL of the QR code printed on a Magic Label™ consists of the ``URL`` web application mentioned above with the unique ``label ID`` as a parameter.
+
+The web application receives the ``label ID`` mentioned above as a parameter and searches the database with it to see if the URL is already registered.  
+
+In case registered, the web application returns the response that asks your mobile to read the URL.  
+Contrary to not registered, the web application returns the response that asks you to enter a URL to register.
 
 ```plantuml
-participant "your mobile" as App
-participant "Web Server" as Web
+participant "Your Mobile" as App
+participant "Web Application" as Web
 database DB as DB
 
 App -> Web : Label ID
 Web -> DB  : Label ID
 
 alt URL is registered
-  DB -->> Web : URL
-  Web -->> App : App to read URL
+  DB -->> Web : URL registered
+  Web -->> App : Ask your mobile to read URL
 else 
-  DB -->> Web : No URL message
-  Web -->> App : App to set URL
+  DB -->> Web : URL NOT registered
+  Web -->> App : Ask you to set URL
 end
 ```
 
