@@ -1,12 +1,12 @@
 ---
-title: Concepts
+title: How does it works
 weight: 4
 description: >
-  What does your user need to understand about your project in order to use it - or potentially contribute to it?
+  In this section, we will explain how Magic Labels™ work by contrasting them with how regular QR codes work, and show you that the mechanism is patented.
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+Once you understand how it works, you'll realize that  Magic Labels™ dosn't work by magic, but by a web application running in the background.
 {{% /pageinfo %}}
 
 ## How does the Magic Label™ works.
