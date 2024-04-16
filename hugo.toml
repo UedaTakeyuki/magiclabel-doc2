@@ -223,6 +223,7 @@ enable = false
 # Diagrams.net
 [params.drawio]
 enable = true
+#svg_image_url = "https://www.plantuml.com/plantuml/svg/"
 
 [params.plantuml]
 enable = true
