@@ -224,6 +224,7 @@ enable = false
 [params.drawio]
 enable = true
 svg_image_url = "https://www.plantuml.com/plantuml/svg/"
+svg = true
 
 [params.plantuml]
 enable = true
