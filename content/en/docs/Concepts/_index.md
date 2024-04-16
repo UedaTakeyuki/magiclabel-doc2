@@ -52,6 +52,7 @@ else
 end
 ```
 
+
 ## Patented by the Japan Patent Office
 The feature mentioned above is patented by the **Japna Patent Office** as follow:
 - [P6078766](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6078766/D2E867CCAFF6CE9635CD4F2A6B6FDBF890F40D6422306B6567C7FBD559EA1CE1/15/ja)
