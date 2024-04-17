@@ -2,7 +2,7 @@
 title: How does it works
 weight: 4
 description: >
-  In this section, we will explain how Magic Labels™ work by contrasting them with how regular QR codes work, and show you that the mechanism is patented.
+  In this document, we will explain how Magic Labels™ work by contrasting them with how regular QR codes work, and show you that the mechanism is patented.
 ---
 
 {{% pageinfo %}}
