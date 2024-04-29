@@ -1,7 +1,9 @@
 ---
 title: Contribution Guidelines
-weight: 10
+weight: #10
 description: How to contribute to the docs
+hide_summary: true
+
 ---
 
 {{% pageinfo %}}
